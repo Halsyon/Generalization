@@ -1,1 +1,3 @@
-#### App Unnamed
+#### App Generalization
+ 
+[x] example integration block
